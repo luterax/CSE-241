@@ -1,5 +1,8 @@
-# CSE-241
-Object Oriented Programming
+# Gebze Technical University
+# Computer Engineering
+# CSE-241 Object Oriented Programming
+
+GNU G++ C++11 Projects
 
 Assignment 1 -> C++ Calculator Recursively Total Cost of Object.
 
