@@ -1,0 +1,3 @@
+search "Monkeys" in "title"
+search "Spice" in "genre"
+sort "year"
