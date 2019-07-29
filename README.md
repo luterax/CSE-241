@@ -16,7 +16,4 @@ Assignment 5 -> C++ Dynamically System Directory Structure Design.
 
 Assignment 6 -> C++ Catalog Search/Sort Programme.
 
-
-Java Projects
-
 Assignment 7 -> Java Skyline Problem and GUI Design.
